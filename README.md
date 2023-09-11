@@ -12,7 +12,7 @@ The following is a BibTeX reference:
 @article{gao2023reentry,
   title={Reentry Risk and Safety Assessment of Spacecraft Debris Based on Machine Learning},
   author={Gao, Hu and Li, Zhihui and Dang, Depeng and Yang, Jingfan and Wang, Ning},
-  journal={arXiv preprint arXiv:2302.10530},
+  journal={International Journal of Aeronautical and Space Sciences},
   year={2023}
 }
 
